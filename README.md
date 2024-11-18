@@ -26,5 +26,5 @@ python main.py \folder\ -r
 
 Generate a requirements.txt file file for each folder in the specified directory including the top folder and include standard libraies.
 ```
-python main.py \folder\ -r
+python main.py \folder\ -r -a
 ```
